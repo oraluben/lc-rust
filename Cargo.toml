@@ -1,5 +1,5 @@
 [package]
-name = "lc-rust"
+name = "lc"
 version = "0.1.0"
 authors = ["Yichen Yan <oraluben@outlook.com>"]
 edition = "2018"
